@@ -12,7 +12,7 @@ app.get("/", (req, res) => {
     <h1>🚀 Hello, CI/CD with Docker + GitHub Actions!</h1>
     <p>✅ Your Node.js app is live and running inside a Docker container!</p>
     <p>Try the <a href="/health">/health</a> endpoint for a JSON response.</p>
-    <p>Enjoy seamless CI/CD automation! 🔥</p>
+    <p>Enjoy seamless CI/CD automation!!!!! 🔥</p>
   `);
 });
 
